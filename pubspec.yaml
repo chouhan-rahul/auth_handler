@@ -1,0 +1,18 @@
+name: auth_handler
+description: This package provides OTP-based authentication for Flutter. You can easily and quickly verify your email.
+version: 1.0.0
+homepage: https://rahulchouhan.me
+
+environment:
+  sdk: ">=2.17.5 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
